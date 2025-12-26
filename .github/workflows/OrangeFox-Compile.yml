@@ -28,7 +28,7 @@ on:
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
-        default: 'device/motorola/fogo'
+        default: 'device/motorola/sm6375-common/BoardConfigCommon'
       DEVICE_NAME:
         description: 'Specify your Device Codename'
         required: true
